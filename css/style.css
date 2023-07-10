@@ -100,3 +100,18 @@ nav > a:hover {
   font-size: 1.7em;
   transition: 0.8s ease-in-out;
 }
+
+.listas {
+  font-size: 2em;
+  margin-left: 120px;
+}
+
+.conteudo h4 {
+  margin-left: 20px;
+  font-size: 1.5em;
+}
+
+.conteudo ul {
+  font-size: 1.2em;
+  margin: 20px 0px 20px 50px;
+}
