@@ -37,7 +37,7 @@ nav {
 }
 
 nav a {
-  margin: 0px 0px 18px 0px;
+  padding: 0px 0px 18px 0px;
   font-size: 1em;
   text-transform: uppercase;
   font-weight: bold;
@@ -80,7 +80,7 @@ nav > a:hover {
   text-shadow: 1px 1px black;
 }
 .informacoesHobbies {
-  margin-bottom: 20px;
+  padding-bottom: 20px;
 }
 .informacoesHobbies h4 {
   font-size: 1em;
@@ -97,7 +97,7 @@ nav > a:hover {
 }
 
 .iconeSociais > a:hover {
-  font-size: 1.7em;
+  font-size: 1.4em;
   transition: 0.8s ease-in-out;
 }
 
